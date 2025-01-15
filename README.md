@@ -1,7 +1,15 @@
 # Registered-User-endpoint-Neovis-
 # FastAPI Chatbot Backend
 
-This project is a FastAPI-based chatbot backend designed to provide information about Neovis Consulting. It utilizes AI to enhance user interactions and offers features such as user registration, chat history management, and customer service transfer.
+This project is a FastAPI-based chatbot backend designed for Internal & Registered to provide information about Neovis Consulting. It utilizes AI to enhance user interactions and offers features such as user registration, chat history management, and customer service transfer for Registered User and for internal user it answers query based on data present in database.Answers Questions like
+
+1)Total commission collected from guest with guest_id "qmrt13im3i42im"?
+
+2)Total Check-ins between 25 Dec 2024 to 31 January 2025?
+
+
+3)Total commission collected in particular month?
+
 
 ## Folder Structure
 
